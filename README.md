@@ -1,0 +1,8 @@
+"# Customer Churn Analysis & Retention Strategy" 
+"" 
+"## Overview" 
+"This project uses Machine Learning (XGBoost) to predict customer churn and provides an interactive Streamlit dashboard for retention strategies." 
+"" 
+"## How to Run" 
+"1. \`pip install -r requirements.txt\`" 
+"2. \`streamlit run app.py\`" 
